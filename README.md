@@ -9,13 +9,12 @@
 
 - 👯 I’m open to collaborate on **both back end or front end proyects**
 
-- 👨‍💻 All of my projects are available at [I will add my portfolio sooon](I will add my portfolio sooon)
+- 👨‍💻 All of my projects are available at (I will add my portfolio sooon)
 
 - 💬 Ask me about **Python, Css, Html**
 
 - 📫 How to reach me **gxlthz@gmail.com**
 
-- ⚡ Fun fact **I am a tottally gym rat. I love take pictures too and I am a great chef**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
