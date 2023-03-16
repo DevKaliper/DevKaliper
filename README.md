@@ -1,4 +1,4 @@
-<h1 align="center">console.log("Hello Worl"); I am Manuel Leon</h1>
+<h1 align="center">console.log("Hello Worl,  I am Manuel Leon");</h1>
 <h3 align="center">A passionate 18 years old frontend developer from Panama.</h3>
 
 <p align="left"> <a href="https://twitter.com/devkaliper" target="blank"><img src="https://img.shields.io/twitter/follow/devkaliper?logo=twitter&style=for-the-badge" alt="devkaliper" /></a> </p>
