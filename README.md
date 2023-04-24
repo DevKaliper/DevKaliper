@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/devkaliper" target="blank"><img src="https://img.shields.io/twitter/follow/devkaliper?logo=twitter&style=for-the-badge" alt="devkaliper" /></a> </p>
 
-- 🔭 I’m currently studing Software engineering g at [Universidad Tecnológica de Panamá](https://utp.ac.pa/)
+- 🔭 I’m currently studing Software engineering at [Universidad Tecnológica de Panamá](https://utp.ac.pa/)
 
 - 🌱 I’m currently learning **React, Swift**
 
