@@ -14,7 +14,7 @@
 
 - 👯 I’m open to collaborate on **Frontend Proyects**
 
-- 👨‍💻 All of my projects are available at (I will add my portfolio sooon)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://devkaliper.me/Portfolio/)
 
 - 💬 Ask me about **Python, Git, JavaScript, Css, Html.**
 
