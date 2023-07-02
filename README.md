@@ -1,4 +1,4 @@
-### Console.log("Hello World!, I´m DevKaliper 👋")
+
 
 ![me](https://i.ibb.co/8mJ70z1/Black-Minimal-Motivation-Quote-Linked-In-Banner.png)
 
