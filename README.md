@@ -21,7 +21,7 @@ while (devKaliper.alive){
 ```
 
 ##  About Me
--  <img alt="GIFiniciail" src=https://pic.funnygifsbox.com/uploads/2021/06/funnygifsbox.com-2021-06-29-15-01-38-78.gif width="25" /> &nbsp; **Full-Stack Blockchain Development**  is the area I want to specialize in.. <img width="15%" align="right" alt="Gif" src="https://pic.funnygifsbox.com/uploads/2021/06/funnygifsbox.com-2021-06-29-15-01-24-31.gif" /><br>
+-  <img alt="GIFiniciail" src=https://pic.funnygifsbox.com/uploads/2021/06/funnygifsbox.com-2021-06-29-15-01-38-78.gif width="25" /> &nbsp; **Full-Stack Blockchain Development**  is the area I want to specialize in.<img width="15%" align="right" alt="Gif" src="https://pic.funnygifsbox.com/uploads/2021/06/funnygifsbox.com-2021-06-29-15-01-24-31.gif" /><br>
 - <img src="https://pic.funnygifsbox.com/uploads/2021/06/funnygifsbox.com-2021-06-29-15-01-39-18.gif" width="20" />&nbsp;&nbsp;&nbsp; I’m Currently learning  **React Native**. <br>
 - <img src="https://pic.funnygifsbox.com/uploads/2021/06/funnygifsbox.com-2021-06-29-15-00-08-80.gif" width="25" />&nbsp;&nbsp; Ask me about **Web development**,  **React, Python, or anything else**. <br>
 - <img src="https://pic.funnygifsbox.com/uploads/2021/06/funnygifsbox.com-2021-06-29-15-00-04-64.gif" width="25" /> &nbsp; I’m Currently studying **Software Engineering** at **[UTP](https://utp.ac.pa/)**.<br>
