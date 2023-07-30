@@ -1,6 +1,6 @@
 
 
-![me](https://i.ibb.co/9br0Fhz/Banner-Github.png)
+![me](https://i.ibb.co/2cVzcbR/Github-Banner-actual.png)
 
 ```js
 const devKaliper = {
