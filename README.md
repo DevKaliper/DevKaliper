@@ -1,6 +1,6 @@
 
 
-![me](https://i.ibb.co/2cVzcbR/Github-Banner-actual.png)
+![me](https://storage.googleapis.com/img-dev-kaliper-uploader-2/image-1690846247784-GithubBanner(actual).png)
 
 ```js
 const devKaliper = {
