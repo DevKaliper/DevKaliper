@@ -59,31 +59,18 @@ while (devKaliper.alive){
 <a href="#">
         <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DevKaliper&layout=compact&langs_count=8&card_width=320&theme=noctis_minimus&hide_progress=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DevKaliper&layout=compact&langs_count=8&card_width=320&theme=noctis_minimus&hide_progress=false"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DevKaliper&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=swift"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevKaliper&layout=compact&langs_count=5&card_width=320&hide_progress=true" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevKaliper&layout=compact&langs_count=5&card_width=320&hide_progress=false" />
 </picture>
 </a>
 
-<a href="#">
-        <picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=DevKaliper&theme=apprentice&hide_border=false"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=DevKaliper&theme=swift&hide_border=false"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
 
-<img align="left" width=100% src="https://github-readme-streak-stats.herokuapp.com/?user=DevKaliper&theme=noctic_minimus&hide_border=false">
-</picture>
-</a>
 
 
 [![Created By - DevKaliper](https://img.shields.io/badge/Created_By-Devkaliper-2ea44f)](https://github.com/DevKaliper)
