@@ -7,7 +7,7 @@ const devKaliper = {
         name: "Manuel León",
         country: "Panamá",
         alive : true,
-        age: 18,
+        age: 19,
         skills: [JavaScript, Python, Git, React, Node],
         hobbies: [Gym, Guitar, Speak, Maths, Code],
         code : function (){
