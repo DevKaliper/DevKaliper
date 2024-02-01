@@ -1,6 +1,6 @@
 
 
-![me](https://storage.googleapis.com/img-dev-kaliper-uploader-2/image-1690846247784-GithubBanner(actual).png)
+![me](https://i.ibb.co/qsmNF3B/Black-Minimal-Motivation-Quote-Linked-In-Banner-1.png)
 
 ```js
 const devKaliper = {
