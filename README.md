@@ -8,9 +8,9 @@ const devKaliper = {
         country: "Panamá",
         alive : true,
         age: 19,
-        skills: [JavaScript, Python, Git, React, NodeJS, NextJS, Quarkus],
+        skills: [JavaScript, Java, Git, React, NodeJS, NextJS, Quarkus],
         hobbies: [Gym, Guitar, Speak, Maths, Code],
-        code : function (){
+        code : function () {
             console.log("hello world!")
         }
 }
