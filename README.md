@@ -1,6 +1,6 @@
 
 
-![me](https://i.ibb.co/FqknM745/Black-Minimal-Motivation-Quote-Linked-In-Banner.png)
+
 
 ```js
 const devKaliper = {
