@@ -37,37 +37,6 @@ while (devKaliper.alive){
   </a>
 </p>
 
-## My Stats 🔥🔥🔥:
-
-
-<a href="#">
-        <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DevKaliper&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DevKaliper&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=DevKaliper&show_icons=true&theme=dark" />
-</picture>
-</a>
-<a href="#">
-        <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DevKaliper&layout=compact&langs_count=8&card_width=320&theme=dark&hide_progress=false"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DevKaliper&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=dark"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevKaliper&layout=compact&langs_count=5&card_width=320&hide_progress=false" />
-</picture>
-</a>
-
-
 
 
 
